@@ -1,0 +1,27 @@
+.tren {
+	font-weight: bold;
+	border-radius: 25px;
+	margin:5%;
+}
+.kotak{
+	text-align: center;
+	margin:2%;
+}
+.kotak img{
+	width: 100%;
+	border-radius:20px;
+	height: 150px;
+}
+
+.isi{
+	background-color : white;
+}
+
+.label_txt{
+	font-weight:bold;
+	color:black;
+}
+
+.slide img{
+	height: 300px;
+}

@@ -1,0 +1,16 @@
+h3 .login{
+	color :black;
+}
+
+.isilogin{
+	background-color:white;
+}
+
+.isilogin h3{
+	font-weight:bold;
+}
+
+.isilogin img{
+	 width: 250px;
+	 height: 50px;
+}

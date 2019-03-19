@@ -1,0 +1,15 @@
+.detilartikel{
+	background-color:white;
+	padding:3%;
+}
+
+.kotak img{
+	width :70%;
+	height: 30%;
+	border-radius:20px;
+}
+
+.detilartikel h4{
+	font-weight:bold;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}

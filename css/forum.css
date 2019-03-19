@@ -1,0 +1,15 @@
+.imgforum {
+	width: 100%;
+	height: 30%;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+td{
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	text-align:center;
+}
+a {
+	color: black;
+}
+

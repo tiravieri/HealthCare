@@ -1,0 +1,16 @@
+.penyakit button{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	margin:3%;
+	font-size:25px;
+}
+.bulat img{
+	border-radius:100em;
+	border-top:2px solid #cf2031;
+	border-right:2px solid #0f7dc8;
+	border-bottom:2px solid #2eb31a;
+	border-left:2px solid #eab823;
+	width:160px;
+	height:160px;
+
+}
